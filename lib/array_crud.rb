@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   my_array = ["Lluis","Alvy","Ixax","Esma"]
-  name = "eli"
+  name = "arrays!"
   my_array.push("#{name}")
 end
 
