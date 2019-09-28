@@ -1,17 +1,18 @@
 def create_an_empty_array
-  
+  []
 end
 
 def create_an_array
-  
+  my_array = ["Lluis","Alvy","Ixax","Esma"]
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  eli = "Eli"
+  my_array.push(eli)
 end
 
 def add_element_to_start_of_array(array, element)
-  
+  my_array.unshift("Alan")
 end
 
 def remove_element_from_end_of_array(array)
